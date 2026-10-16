@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "name": "Quiz App",
+        "line": "React quiz with timer",
+        "image": "https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/6ad1a212ce09e33c5c9012b4/screenshot_2026-10-16-04-03-42-0000.webp&fit=cover&h=500&q=40&w=800",
+        "link": "https://clonequizapp.netlify.app/"
+    },
+    {
+        "id": 2,
+        "name": "Notes Taking App",
+        "line": "Add and remove notes",
+        "image": "https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/6aa19fbdc840a4000830d21d/screenshot_2026-09-09-18-05-25-0000.webp&fit=cover&h=500&q=40&w=800",
+        "link": "https://notestakingcloneproject.netlify.app/"
+    },
+    {
+        "id": 3,
+        "name": "Random Emoji Generator",
+        "line": "Click to get a new emoji",
+        "image": "https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/6aa19fbd48d9870008b8b8cf/screenshot_2026-09-09-18-05-02-0000.webp&fit=cover&h=500&q=40&w=800",
+        "link": "https://randomemojicloneproject.netlify.app/"
+    },
+    {
+        "id": 4,
+        "name": "Todo List",
+        "line": "Add your daily tasks",
+        "image": "https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/6a83f56cd52e49934e78a551/screenshot_2026-08-18-06-02-29-0000.webp&fit=cover&h=500&q=40&w=800",
+        "link": "https://todolistcloneproject.netlify.app/"
+    },
+    {
+        "id": 5,
+        "name": "Weather Finder",
+        "line": "Find the weather of any place",
+        "image": "https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/6a82d5d72db1af933afa3eb7/screenshot_2026-08-17-09-35-30-0000.webp&fit=cover&h=500&q=40&w=800",
+        "link": "https://weatherfindercloneproject.netlify.app/"
+    },
+    {
+        "id": 6,
+        "name": "Image Finder",
+        "line": "Search images by name",
+        "image": "https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/6a76c1017f8cdcc95bbbc162/screenshot_2026-08-08-05-39-22-0000.webp&fit=cover&h=500&q=40&w=800",
+        "link": "https://imagefindercloneproject.netlify.app/"
+    },
+    {
+        "id": 7,
+        "name": "GitHub Profile Viewer",
+        "line": "See any GitHub profile",
+        "image": "https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/6a72fc023616e3474826012f/screenshot_2026-08-05-09-02-01-0000.webp&fit=cover&h=500&q=40&w=800",
+        "link": "https://githubprofileviewercloneproject.netlify.app/"
+    },
+    {
+        "id": 8,
+        "name": "Tic Tac Toe",
+        "line": "Two player game",
+        "image": "https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/6a68e8c10f02d056817765c6/screenshot_2026-07-28-17-37-18-0000.webp&fit=cover&h=500&q=40&w=800",
+        "link": "https://tictactoecloneproject.netlify.app/"
+    },
+    {
+        "id": 9,
+        "name": "Password Generator",
+        "line": "Make a strong password",
+        "image": "https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/6a685c65bc233b2dede0ac60/screenshot_2026-07-28-07-38-21-0000.webp&fit=cover&h=500&q=40&w=800",
+        "link": "https://passwordgeneratorcloneproject.netlify.app/"
+    },
+    {
+        "id": 10,
+        "name": "Payment App Clone",
+        "line": "Paytm home page design",
+        "image": "https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/6a5e3e65a4868f0008fd8798/screenshot_2026-07-20-15-27-46-0000.webp&fit=cover&h=500&q=40&w=800",
+        "link": "https://paymentcloneproject.netlify.app/"
+    },
+    {
+        "id": 11,
+        "name": "Layers Clone",
+        "line": "Cyber Gaia Era product page",
+        "image": "https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/6a5e3e10066ad9000884adae/screenshot_2026-07-20-15-26-23-0000.webp&fit=cover&h=500&q=40&w=800",
+        "link": "https://layerscloneproject.netlify.app/"
+    }
+]

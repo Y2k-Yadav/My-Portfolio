@@ -75,5 +75,12 @@
         "line": "Cyber Gaia Era product page",
         "image": "https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/6a5e3e10066ad9000884adae/screenshot_2026-07-20-15-26-23-0000.webp&fit=cover&h=500&q=40&w=800",
         "link": "https://layerscloneproject.netlify.app/"
+    },
+    {
+        "id": 12,
+        "name": "Mobile Phone List",
+        "line": "Phone products listed with React",
+        "image": "https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/6ae1717d340977d0058a5025/screenshot_2026-10-28-03-52-45-0000.webp&fit=cover&h=500&q=40&w=800",
+        "link": "https://reactlistrender.netlify.app/"
     }
 ]
